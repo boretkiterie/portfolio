@@ -340,7 +340,16 @@ header {
         margin-left: 2em;
     }
 }
-
+.skills-frontend {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    background-color: #303030;
+    color: chocolate;
+}
+ul {
+    list-style: none;
+}
 
 .about-me {
     max-width: 1000px;
